@@ -263,10 +263,15 @@ exports.slackApp = functions.region("asia-northeast1") // 東京リージョン�
   li {
     margin-top: 16px;
   }
+  a {
+    margin-left: 40px;
+  }
 </style>
 
 - OAuth認証の理解やコードでの記述方法が学べてよかった。
 - 自分が作ったアプリを誰かに使ってもらえるのは改めて嬉しいことだと感じた。
+
+https://github.com/shun1121/change-status
 
 ---
 
