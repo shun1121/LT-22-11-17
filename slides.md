@@ -249,7 +249,7 @@ exports.slackApp = functions.region("asia-northeast1") // 東京リージョン�
 ```
 
 <p v-click class="pt-10">
-  この変更で、コールドスタート時でも遅くとも2500ms以内にはレスポンスが返るようになった。
+  この変更で、コールドスタート時でも遅くとも2500ms前後にはレスポンスが返るようになった。
 </p>
 ---
 
