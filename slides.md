@@ -120,9 +120,9 @@ https://slack.com/intl/ja-jp/help/articles/201259356-Slack-%E3%81%AE%E3%82%B9%E3
 
 | Slashコマンド | 挙動 |
 | --- | --- |
-| <kbd class="text-orange">/hiru</kbd>| #breaktimeチャンネルとプロフィールのステータスに<img src="/hiru.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。 |
-| <kbd class="text-orange">/zenhan</kbd> | #breaktimeチャンネルとプロフィールのステータスに<img src="/zenhan.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。 |
-| <kbd class="text-orange">/kouhan</kbd> | #breaktimeチャンネルとプロフィールのステータスに<img src="/kouhan.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。 |
+| <kbd class="text-orange">/hiru</kbd>| #breaktimeチャンネルとプロフィールのステータスに<img src="/hiru.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。<br>ステータスのスタンプは60分で自動的に消える。 |
+| <kbd class="text-orange">/zenhan</kbd> | #breaktimeチャンネルとプロフィールのステータスに<img src="/zenhan.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。<br>ステータスのスタンプは30分で自動的に消える。 |
+| <kbd class="text-orange">/kouhan</kbd> | #breaktimeチャンネルとプロフィールのステータスに<img src="/kouhan.png" class="inline ml-1 object-contain w-[30px] h-auto" />を投稿。<br>ステータスのスタンプは30分で自動的に消える。 |
 
 ---
 
